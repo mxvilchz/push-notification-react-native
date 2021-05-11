@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767125600710",
+    "project_id": "notiapp-50513",
+    "storage_bucket": "notiapp-50513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767125600710:android:d5383850f544b450b41ac7",
+        "android_client_info": {
+          "package_name": "com.notiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767125600710-qvg2p308pcto0lmjmtmgnlbqkdfuccko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYuEAeSZNdJsFrWJI4e_w2lJ1kcuisao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767125600710-qvg2p308pcto0lmjmtmgnlbqkdfuccko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
