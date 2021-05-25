@@ -29,6 +29,13 @@
             {
               "client_id": "767125600710-qvg2p308pcto0lmjmtmgnlbqkdfuccko.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "767125600710-iuhdt8vgjsbirutfoq2cq1rh3t4rlpr5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.notiapp"
+              }
             }
           ]
         }
